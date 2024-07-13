@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "27733003407",
+    "firebase_url": "https://tugas2mobile2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas2mobile2",
+    "storage_bucket": "tugas2mobile2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27733003407:android:afc63ac61fa9bb21a5f4fa",
+        "android_client_info": {
+          "package_name": "com.example.tugas_mobile2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vR-WUufG2bbrVeRpGHM7lpaiobDN_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
